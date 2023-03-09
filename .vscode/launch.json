@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "node",
+            "name": "Exécuter le fichier actif",
+            "request": "launch",
+            "program": "${workspaceFolder}\\c:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\promise-spawn\\lib\\index.js"
+        }
+    ]
+}
