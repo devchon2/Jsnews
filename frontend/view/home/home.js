@@ -1,7 +1,7 @@
 // Importe les modules nécessaires pour le script, notamment les classes ArticleManager, Article et favoritesManager
-import { ArticleManager } from '../../js/articleManager.mjs';
-import { Article } from '../../js/article.mjs';
-import { favoritesManager } from '../../js/favoritesManager.mjs';
+import { ArticleManager } from '../../js/articleManager.js';
+import { Article } from '../../js/article.js';
+import { favoritesManager } from '../../js/favoritesManager.js';
 
 // Crée une instance de ArticleManager pour stocker la liste des articles
 const articleManager = new ArticleManager();
